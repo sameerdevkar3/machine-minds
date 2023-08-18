@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/machine-minds/static/css/main.82c1841f.css",
-    "main.js": "/machine-minds/static/js/main.80e0c511.js",
+    "main.js": "/machine-minds/static/js/main.748f9f55.js",
     "index.html": "/machine-minds/index.html",
     "main.82c1841f.css.map": "/machine-minds/static/css/main.82c1841f.css.map",
-    "main.80e0c511.js.map": "/machine-minds/static/js/main.80e0c511.js.map"
+    "main.748f9f55.js.map": "/machine-minds/static/js/main.748f9f55.js.map"
   },
   "entrypoints": [
     "static/css/main.82c1841f.css",
-    "static/js/main.80e0c511.js"
+    "static/js/main.748f9f55.js"
   ]
 }
