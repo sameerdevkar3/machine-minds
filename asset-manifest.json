@@ -1,18 +1,13 @@
 {
   "files": {
     "main.css": "/machine-minds/static/css/main.82c1841f.css",
-    "main.js": "/machine-minds/static/js/main.a699e66d.js",
-    "static/media/Desktop.jpeg": "/machine-minds/static/media/Desktop.0e13b6fb0984b4ec9796.jpeg",
-    "static/media/Mobile.jpeg": "/machine-minds/static/media/Mobile.5d3f5e21d8e8f1554d12.jpeg",
-    "static/media/UI-UX.jpeg": "/machine-minds/static/media/UI-UX.9d2588f1adae7bd32e51.jpeg",
-    "static/media/Home-BG.svg": "/machine-minds/static/media/Home-BG.d4745704c6ca90c3335720e944280249.svg",
-    "static/media/Testing.jpeg": "/machine-minds/static/media/Testing.df937318e8d3cd44c35f.jpeg",
+    "main.js": "/machine-minds/static/js/main.93482daf.js",
     "index.html": "/machine-minds/index.html",
     "main.82c1841f.css.map": "/machine-minds/static/css/main.82c1841f.css.map",
-    "main.a699e66d.js.map": "/machine-minds/static/js/main.a699e66d.js.map"
+    "main.93482daf.js.map": "/machine-minds/static/js/main.93482daf.js.map"
   },
   "entrypoints": [
     "static/css/main.82c1841f.css",
-    "static/js/main.a699e66d.js"
+    "static/js/main.93482daf.js"
   ]
 }
